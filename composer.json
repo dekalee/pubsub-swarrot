@@ -2,7 +2,7 @@
     "name": "dekalee/pubsub-swarrot",
     "description": "A PubSub adaptor for the swarrot lib",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nicolas Thal",
